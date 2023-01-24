@@ -7,4 +7,4 @@ Assembly code is from the book introduction to risc assembly language programmin
 
 I used Mars.jar an assembly RISC virtulization IDE.
 
-Hopefully, you find the code helpful for your own assignments.
+Hopefully, you find the code helpful.
